@@ -1,0 +1,23 @@
+https://stackoverflow.com/questions/52524112/how-do-i-install-java-on-mac-osx-allowing-version-switching
+
+sdk use java 11.0.23-zulu
+sdk current java
+java -version
+sdk current
+
+https://www.liferay.com/web/events/enablement-bootcamp-prerequisites
+
+
+# blade
+
+https://learn.liferay.com/w/dxp/liferay-development/tooling/blade-cli/installing-and-updating-blade-cli
+
+https://learn.liferay.com/web/guest/w/dxp/liferay-development/tooling/blade-cli
+curl -L https://raw.githubusercontent.com/liferay/liferay-blade-cli/master/cli/installers/local | sh
+
+
+Address: Americaneagle.com, Inc Office, 2600 S. River Road, Des Plaines, IL 60018.
+
+Check-in open: June 11 at 9:30 AM 
+
+Bootcamp start time (Day 1): at 10:30 AM
